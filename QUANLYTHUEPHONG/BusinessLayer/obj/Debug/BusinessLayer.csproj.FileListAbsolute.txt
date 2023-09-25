@@ -1,0 +1,15 @@
+E:\MONHOC\MÔN CNPM\QUANLYTHUEPHONG\QUANLYTHUEPHONG\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+E:\MONHOC\MÔN CNPM\QUANLYTHUEPHONG\QUANLYTHUEPHONG\BusinessLayer\bin\Debug\BusinessLayer.dll
+E:\MONHOC\MÔN CNPM\QUANLYTHUEPHONG\QUANLYTHUEPHONG\BusinessLayer\bin\Debug\BusinessLayer.pdb
+E:\MONHOC\MÔN CNPM\QUANLYTHUEPHONG\QUANLYTHUEPHONG\BusinessLayer\bin\Debug\DataLayer.dll
+E:\MONHOC\MÔN CNPM\QUANLYTHUEPHONG\QUANLYTHUEPHONG\BusinessLayer\bin\Debug\EntityFramework.dll
+E:\MONHOC\MÔN CNPM\QUANLYTHUEPHONG\QUANLYTHUEPHONG\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\MONHOC\MÔN CNPM\QUANLYTHUEPHONG\QUANLYTHUEPHONG\BusinessLayer\bin\Debug\DataLayer.pdb
+E:\MONHOC\MÔN CNPM\QUANLYTHUEPHONG\QUANLYTHUEPHONG\BusinessLayer\bin\Debug\DataLayer.dll.config
+E:\MONHOC\MÔN CNPM\QUANLYTHUEPHONG\QUANLYTHUEPHONG\BusinessLayer\bin\Debug\EntityFramework.xml
+E:\MONHOC\MÔN CNPM\QUANLYTHUEPHONG\QUANLYTHUEPHONG\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\MONHOC\MÔN CNPM\QUANLYTHUEPHONG\QUANLYTHUEPHONG\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+E:\MONHOC\MÔN CNPM\QUANLYTHUEPHONG\QUANLYTHUEPHONG\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\MONHOC\MÔN CNPM\QUANLYTHUEPHONG\QUANLYTHUEPHONG\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+E:\MONHOC\MÔN CNPM\QUANLYTHUEPHONG\QUANLYTHUEPHONG\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\MONHOC\MÔN CNPM\QUANLYTHUEPHONG\QUANLYTHUEPHONG\BusinessLayer\obj\Debug\BusinessLayer.pdb
